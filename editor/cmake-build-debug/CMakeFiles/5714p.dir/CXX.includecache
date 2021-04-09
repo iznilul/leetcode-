@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/offer/leetcode/leetcode/editor/5714.cpp
+iostream
+-
+vector
+-
+cstring
+-
+unordered_map
+-
+
